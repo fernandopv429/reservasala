@@ -1,0 +1,8 @@
+{
+  "name": "Sistema de Reserva de Salas Comerciais",
+  "description": "Plataforma para gerenciar agendamento de salas comerciais, incluindo chat integrado para troca de horários e solicitação de serviços adicionais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
